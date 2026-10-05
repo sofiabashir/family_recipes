@@ -1,6 +1,6 @@
 # Family secret recipes
 
-Set of recipes as given by my grandma.
+Set of recipes as given by my grandm.
 
 * pizzas (TODO)
 * sauces (TODO)
